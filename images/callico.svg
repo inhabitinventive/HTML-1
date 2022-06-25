@@ -1,0 +1,10 @@
+<svg id="callico" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00f3a2"/>
+      <stop offset="1" stop-color="#0082ff"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="26.5" cy="26.5" r="26.5" fill="url(#linear-gradient)"/>
+  <path id="Icon_ionic-md-call" data-name="Icon ionic-md-call" d="M26.151,20.42a14.948,14.948,0,0,1-4.521-.7,1.191,1.191,0,0,0-1.273.318l-2.8,2.8a19.152,19.152,0,0,1-8.406-8.406l2.8-2.8a1.327,1.327,0,0,0,.318-1.274A13.851,13.851,0,0,1,11.5,5.774,1.277,1.277,0,0,0,10.231,4.5H5.774A1.277,1.277,0,0,0,4.5,5.774,21.633,21.633,0,0,0,26.151,27.424a1.278,1.278,0,0,0,1.274-1.274V21.693A1.278,1.278,0,0,0,26.151,20.42Z" transform="translate(10.538 10.538)" fill="#fff"/>
+</svg>
